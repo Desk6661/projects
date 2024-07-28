@@ -63,22 +63,67 @@
     }
 }
 
-/* FOR FIRST SECTION */
+/* ALL SECTIONS */
 
 @media screen and (max-width: 1241px) {
+
+    /* FIRST SECTION */
     .first-section-innerbox-left > p{
         font-size: 15px;
     }
     .first-section-innerbox-left-buttons {
         height: 8vh;
-        /* margin-top: 6px; */
     }
     .first-section-innerbox-left-ratingbox{
         height: 8vh;
-        /* margin-top: 6px; */
     }
+
+    /* SECOND SECTION */
+    .second-section-top h1 {
+        font-size: 50px;
+    }
+    .second-section-top p{
+        color: gray;
+        font-size: 14px;
+    }
+    .second-section-bottom-left h1{
+        font-size: 40px;
+    }
+    .second-section-bottom-left p{
+        font-size: 15px;
+    }
+
+    /* THRID SECTION */
+    .third-section-innnerbox h1{
+        font-size: 43px;
+    }
+    .third-section-innnerbox p{
+        font-size: 18px;
+        padding-top: 10px;
+        color: gray;
+    }
+
+    /* FOURTH SECTION */
+    .fourth-section-innerbox-txtbox h1{
+        font-size: 47px;
+    }
+    .fourth-section-innerbox-txtbox p{
+        padding-top: 13px;
+        padding-bottom: 17px;
+        font-size: 15px;
+    }
+    .fourth-section-innerbox-txtbox button{
+        font-size: 11px;
+        padding: 17px 27px;
+    }
+    .fourth-section-innerbox-txtbox button i{
+        padding-right: 7px;
+    }
+    
 }
 @media screen and (max-width: 1110px) {
+
+    /* FIRST SECTION */
     .first-section-innerbox-left > p{
         font-size: 13px;
     }
@@ -90,10 +135,38 @@
         height: 8vh;
         margin-top: 12px;
     }
+
+    /* THRID SECTION */
+    .third-section-innnerbox h1{
+        font-size: 40px;
+    }
+    .third-section-innnerbox p{
+        font-size: 16px;
+        padding-top: 8px;
+        color: gray;
+    }
+
+    /* FOURTH SECTION */
+    .fourth-section-innerbox-txtbox h1{
+        font-size: 45px;
+    }
+    .fourth-section-innerbox-txtbox p{
+        padding-top: 12px;
+        padding-bottom: 16px;
+        font-size: 14px;
+    }
+    .fourth-section-innerbox-txtbox button{
+        font-size: 10px;
+        padding: 16px 26px;
+    }
+    .fourth-section-innerbox-txtbox button i{
+        padding-right: 7px;
+    }
 }
 
 @media screen and (max-width: 1182px) {
     
+    /* FIRST SECTION */
     .first-section-innerbox-left h1 {
         font-size: 90px;
     }
@@ -102,7 +175,6 @@
     }
     .first-section-innerbox-left-buttons {
         height: 8vh;
-        /* margin-top: 18px; */
     }
     .first-section-innerbox-left-buttons button:first-child,
     .first-section-innerbox-left-buttons button:nth-child(2) {
@@ -110,7 +182,6 @@
     }
     .first-section-innerbox-left-ratingbox{
         height: 8vh;
-        /* margin-top: 18px; */
     }
     .first-section-innerbox-left-ratingbox p{
         font-size: 19px;
@@ -119,10 +190,26 @@
     .first-section-innerbox-left-ratingbox-stars h2 {
         font-size: 20px;
     }
+
+    /* SECOND SECTION */
+    .second-section-top h1 {
+        font-size: 40px;
+    }
+    .second-section-top p{
+        color: gray;
+        font-size: 13px;
+    }
+    .second-section-bottom-left h1{
+        font-size: 35px;
+    }
+    .second-section-bottom-left p{
+        font-size: 13px;
+    }
 }
 
 @media screen and (max-width: 1044px) {
     
+    /* FIRST SECTION */
     .first-section-innerbox-left h1 {
         font-size: 74px;
     }
@@ -132,7 +219,6 @@
     .first-section-innerbox-left-buttons {
         width: 300px;
         height: 6vh;
-        /* margin-top: 18px; */
     }
     .first-section-innerbox-left-buttons button:first-child,
     .first-section-innerbox-left-buttons button:nth-child(2) {
@@ -141,7 +227,6 @@
     }
     .first-section-innerbox-left-ratingbox{
         height: 6vh;
-        /* margin-top: 16px; */
     }
     .first-section-innerbox-left-ratingbox p{
         font-size: 18px;
@@ -150,10 +235,53 @@
     .first-section-innerbox-left-ratingbox-stars h2 {
         font-size: 17px;
     }
+
+    /* SECOND SECTION */
+    .second-section-top h1 {
+        font-size: 35px;
+    }
+    .second-section-top p{
+        color: gray;
+        font-size: 12px;
+    }
+    .second-section-bottom-left h1{
+        font-size: 30px;
+    }
+    .second-section-bottom-left p{
+        font-size: 12px;
+    }
+
+    /* THRID SECTION */
+    .third-section-innnerbox h1{
+        font-size: 37px;
+    }
+    .third-section-innnerbox p{
+        font-size: 14px;
+        padding-top: 6px;
+        color: gray;
+    }
+
+    /* FOURTH SECTION */
+    .fourth-section-innerbox-txtbox h1{
+        font-size: 40px;
+    }
+    .fourth-section-innerbox-txtbox p{
+        padding-top: 10px;
+        padding-bottom: 13px;
+        font-size: 12px;
+    }
+    .fourth-section-innerbox-txtbox button{
+        font-size: 9px;
+        padding: 13px 24px;
+    }
+    .fourth-section-innerbox-txtbox button i{
+        padding-right: 6px;
+    }
 }
 
 @media screen and (max-width: 902px) {
     
+    /* FIRST SECTION */
     .first-section-innerbox-left h1 {
         font-size: 60px;
     }
@@ -163,7 +291,6 @@
     .first-section-innerbox-left-buttons {
         width: 240px;
         height: 5vh;
-        /* margin-top: 18px; */
     }
     .first-section-innerbox-left-buttons button:first-child,
     .first-section-innerbox-left-buttons button:nth-child(2) {
@@ -172,7 +299,6 @@
     }
     .first-section-innerbox-left-ratingbox{
         height: 5vh;
-        /* margin-top: 18px; */
     }
     .first-section-innerbox-left-ratingbox p{
         font-size: 13px;
@@ -181,10 +307,99 @@
     .first-section-innerbox-left-ratingbox-stars h2 {
         font-size: 15px;
     }
+
+    /* SECOND SECTION */
+    .second-section-top h1 {
+        font-size: 33px;
+    }
+    .second-section-top p{
+        color: gray;
+        font-size: 11px;
+    }
+    .second-section-bottom-left h1{
+        font-size: 28px;
+    }
+    .second-section-bottom-left p{
+        font-size: 11px;
+    }
+
+    /* THRID SECTION */
+    .third-section-innnerbox h1{
+        font-size: 30px;
+    }
+    .third-section-innnerbox p{
+        font-size: 12px;
+        padding-top: 6px;
+        color: gray;
+    }
+
+    /* FOURTH SECTION */
+    .fourth-section-innerbox-txtbox h1{
+        font-size: 35px;
+    }
+    .fourth-section-innerbox-txtbox p{
+        padding-top: 8px;
+        padding-bottom: 10px;
+        font-size: 11px;
+    }
+    .fourth-section-innerbox-txtbox button{
+        font-size: 8px;
+        padding: 11px 22px;
+    }
+    .fourth-section-innerbox-txtbox button i{
+        padding-right: 6px;
+    }
+}
+@media screen and (max-width: 799px){
+    /* FOURTH SECTION */
+    .fourth-section-innerbox-txtbox h1{
+        font-size: 33px;
+    }
+    .fourth-section-innerbox-txtbox p{
+        padding-top: 7px;
+        padding-bottom: 9px;
+        font-size: 10px;
+    }
+    .fourth-section-innerbox-txtbox button{
+        font-size: 8px;
+        padding: 10px 20px;
+    }
+    .fourth-section-innerbox-txtbox button i{
+        padding-right: 5px;
+    }
+}
+@media screen and (max-width: 740px){
+    /* THRID SECTION */
+    .third-section-innnerbox h1{
+        font-size: 29px;
+    }
+    .third-section-innnerbox p{
+        font-size: 12px;
+        padding-top: 6px;
+        color: gray;
+    }
+
+    /* FOURTH SECTION */
+    .fourth-section-innerbox-txtbox h1{
+        font-size: 32px;
+    }
+    .fourth-section-innerbox-txtbox p{
+        padding-top: 7px;
+        padding-bottom: 9px;
+        font-size: 9px;
+    }
+    .fourth-section-innerbox-txtbox button{
+        font-size: 7px;
+        padding: 9px 18px;
+    }
+    .fourth-section-innerbox-txtbox button i{
+        padding-right: 5px;
+    }
 }
 
 @media screen and (max-width: 712px) {
     
+    /* FIRST SECTION */
     .first-section-innerbox-left h1 {
         font-size: 45px;
     }
@@ -194,7 +409,6 @@
     .first-section-innerbox-left-buttons {
         width: 200px;
         height: 4vh;
-        /* margin-top: 16px; */
     }
     .first-section-innerbox-left-buttons button:first-child,
     .first-section-innerbox-left-buttons button:nth-child(2) {
@@ -203,7 +417,6 @@
     }
     .first-section-innerbox-left-ratingbox{
         height: 4vh;
-        /* margin-top: 16px; */
     }
     .first-section-innerbox-left-ratingbox p{
         font-size: 11px;
@@ -213,10 +426,81 @@
         font-size: 12px;
         padding: 4px;
     }
+
+    /* SECOND SECTION */
+    .second-section-top h1 {
+        font-size: 30px;
+    }
+    .second-section-top p{
+        color: gray;
+        font-size: 9px;
+    }
+    .second-section-bottom-left h1{
+        font-size: 25px;
+    }
+    .second-section-bottom-left p{
+        font-size: 9px;
+    }
+
+    /* THRID SECTION */
+    .third-section-innnerbox h1{
+        font-size: 26px;
+    }
+    .third-section-innnerbox p{
+        font-size: 9px;
+        padding-top: 5px;
+        color: gray;
+    }
+
+    /* FOURTH SECTION */
+    .fourth-section-innerbox-txtbox h1{
+        font-size: 28px;
+    }
+    .fourth-section-innerbox-txtbox p{
+        padding-top: 5px;
+        padding-bottom: 7px;
+        font-size: 8px;
+    }
+    .fourth-section-innerbox-txtbox button{
+        font-size: 7px;
+        padding: 9px 18px;
+    }
+    .fourth-section-innerbox-txtbox button i{
+        padding-right: 5px;
+    }
+}
+@media screen and (max-width: 636px){
+    /* THRID SECTION */
+    .third-section-innnerbox h1{
+        font-size: 23px;
+    }
+    .third-section-innnerbox p{
+        font-size: 8px;
+        padding-top: 5px;
+        color: gray;
+    }
+
+    /* FOURTH SECTION */
+    .fourth-section-innerbox-txtbox h1{
+        font-size: 25px;
+    }
+    .fourth-section-innerbox-txtbox p{
+        padding-top: 5px;
+        padding-bottom: 7px;
+        font-size: 7px;
+    }
+    .fourth-section-innerbox-txtbox button{
+        font-size: 6px;
+        padding: 8px 16px;
+    }
+    .fourth-section-innerbox-txtbox button i{
+        padding-right: 4px;
+    }
 }
 
 @media screen and (max-width: 569px) {
     
+    /* FIRST SECTION */
     .first-section-innerbox-left h1 {
         font-size: 38px;
     }
@@ -236,7 +520,6 @@
     }
     .first-section-innerbox-left-ratingbox{
         height: 4vh;
-        /* margin-top: 14px; */
     }
     .first-section-innerbox-left-ratingbox p{
         font-size: 10px;
@@ -246,10 +529,81 @@
         font-size: 10px;
         padding: 3px;
     }
+
+    /* SECOND SECTION */
+    .second-section-top h1 {
+        font-size: 25px;
+    }
+    .second-section-top p{
+        color: gray;
+        font-size: 7px;
+    }
+    .second-section-bottom-left h1{
+        font-size: 20px;
+    }
+    .second-section-bottom-left p{
+        font-size: 7px;
+    }
+    
+    /* THRID SECTION */
+    .third-section-innnerbox h1{
+        font-size: 20px;
+    }
+    .third-section-innnerbox p{
+        font-size: 7px;
+        padding-top: 5px;
+        color: gray;
+    }
+
+    /* FOURTH SECTION */
+    .fourth-section-innerbox-txtbox h1{
+        font-size: 21px;
+    }
+    .fourth-section-innerbox-txtbox p{
+        padding-top: 4px;
+        padding-bottom: 6px;
+        font-size: 6px;
+    }
+    .fourth-section-innerbox-txtbox button{
+        font-size: 5px;
+        padding: 6px 12px;
+    }
+    .fourth-section-innerbox-txtbox button i{
+        padding-right: 4px;
+    }
+}
+@media screen and (max-width: 492px){
+    /* THRID SECTION */
+    .third-section-innnerbox h1{
+        font-size: 17px;
+    }
+    .third-section-innnerbox p{
+        font-size: 6px;
+        padding-top: 5px;
+        color: gray;
+    }
+
+    /* FOURTH SECTION */
+    .fourth-section-innerbox-txtbox h1{
+        font-size: 20px;
+    }
+    .fourth-section-innerbox-txtbox p{
+        padding-top: 4px;
+        padding-bottom: 6px;
+        font-size: 5px;
+    }
+    .fourth-section-innerbox-txtbox button{
+        font-size: 5px;
+        padding: 6px 12px;
+    }
+    .fourth-section-innerbox-txtbox button i{
+        padding-right: 4px;
+    }
 }
 
 @media screen and (max-width: 437px) {
     
+    /* FIRST SECTION */
     .first-section-innerbox-left h1 {
         font-size: 34px;
     }
@@ -259,7 +613,6 @@
     .first-section-innerbox-left-buttons {
         width: 133px;
         height: 2vh;
-        /* margin-top: 3px; */
     }
     .first-section-innerbox-left-buttons button:first-child,
     .first-section-innerbox-left-buttons button:nth-child(2) {
@@ -278,10 +631,53 @@
         font-size: 7px;
         padding: 2px;
     }
+
+    /* SECOND SECTION */
+    .second-section-top h1 {
+        font-size: 20px;
+    }
+    .second-section-top p{
+        color: gray;
+        font-size: 5px;
+    }
+    .second-section-bottom-left h1{
+        font-size: 15px;
+    }
+    .second-section-bottom-left p{
+        font-size: 5px;
+    }
+
+    /* THRID SECTION */
+    .third-section-innnerbox h1{
+        font-size: 15px;
+    }
+    .third-section-innnerbox p{
+        font-size: 5px;
+        padding-top: 5px;
+        color: gray;
+    }
+
+    /* FOURTH SECTION */
+    .fourth-section-innerbox-txtbox h1{
+        font-size: 17px;
+    }
+    .fourth-section-innerbox-txtbox p{
+        padding-top: 3px;
+        padding-bottom: 4px;
+        font-size: 4px;
+    }
+    .fourth-section-innerbox-txtbox button{
+        font-size: 4px;
+        padding: 5px 10px;
+    }
+    .fourth-section-innerbox-txtbox button i{
+        padding-right: 3px;
+    }
 }
 
 @media screen and (max-width: 375px) {
 
+    /* FIRST SECTION */
     .first-section-innerbox-left h1 {
         font-size: 30px;
     }
@@ -291,7 +687,6 @@
     .first-section-innerbox-left-buttons {
         width: 110px;
         height: 2vh;
-        /* margin-top: 3px; */
     }
     .first-section-innerbox-left-buttons button:first-child,
     .first-section-innerbox-left-buttons button:nth-child(2) {
@@ -300,7 +695,6 @@
     }
     .first-section-innerbox-left-ratingbox{
         height: 2vh;
-        /* margin-top: 2px; */
     }
     .first-section-innerbox-left-ratingbox p{
         font-size: 6px;
@@ -310,9 +704,53 @@
         font-size: 6px;
         padding: 1px;
     }
+
+    /* SECOND SECTION */
+    .second-section-top h1 {
+        font-size: 15px;
+    }
+    .second-section-top p{
+        color: gray;
+        font-size: 4px;
+    }
+    .second-section-bottom-left h1{
+        font-size: 10px;
+    }
+    .second-section-bottom-left p{
+        font-size: 4px;
+    }
+
+    /* THRID SECTION */
+    .third-section-innnerbox h1{
+        font-size: 12px;
+    }
+    .third-section-innnerbox p{
+        font-size: 4px;
+        padding-top: 5px;
+        color: gray;
+    }
+
+    /* FOURTH SECTION */
+    .fourth-section-innerbox-txtbox h1{
+        font-size: 15px;
+    }
+    .fourth-section-innerbox-txtbox p{
+        padding-top: 3px;
+        padding-bottom: 0;
+        font-size: 3px;
+    }
+    .fourth-section-innerbox-txtbox button{
+        font-size: 3px;
+        padding: 4px 8px;
+    }
+    .fourth-section-innerbox-txtbox button i{
+        padding-right: 2px;
+    }
 }
 
 @media screen and (max-width: 310px) {
+
+    /* FIRST SECTION */
     .first-section-innerbox-left h1 {
         font-size: 22px;
     }
@@ -322,7 +760,6 @@
     .first-section-innerbox-left-buttons {
         width: 110px;
         height: 2vh;
-        /* margin-top: 3px; */
     }
     .first-section-innerbox-left-buttons button:first-child,
     .first-section-innerbox-left-buttons button:nth-child(2) {
@@ -331,7 +768,6 @@
     }
     .first-section-innerbox-left-ratingbox{
         height: 2vh;
-        /* margin-top: 2px; */
     }
     .first-section-innerbox-left-ratingbox p{
         font-size: 6px;
@@ -340,5 +776,32 @@
     .first-section-innerbox-left-ratingbox-stars h2 {
         font-size: 6px;
         padding: 1px;
+    }
+
+    /* THRID SECTION */
+    .third-section-innnerbox h1{
+        font-size: 10px;
+    }
+    .third-section-innnerbox p{
+        font-size: 4px;
+        padding-top: 5px;
+        color: gray;
+    }
+
+    /* FOURTH SECTION */
+    .fourth-section-innerbox-txtbox h1{
+        font-size: 13px;
+    }
+    .fourth-section-innerbox-txtbox p{
+        padding-top: 2px;
+        padding-bottom: 0;
+        font-size: 3px;
+    }
+    .fourth-section-innerbox-txtbox button{
+        font-size: 3px;
+        padding: 3px 6px;
+    }
+    .fourth-section-innerbox-txtbox button i{
+        padding-right: 2px;
     }
 }
