@@ -100,7 +100,7 @@
     height: 41vw;
     display: flex;
     /* margin-top: auto; */
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 /* FIRST SECTION LEFT BOX */
@@ -228,7 +228,7 @@
     margin-top: 5px;
     display: flex;
     justify-content: center;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .five-icons {
@@ -239,7 +239,7 @@
     justify-content: space-around;
     background-color: rgb(34, 34, 34);
     border-radius: 30px;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
 }
 
 .five-icons img {
@@ -255,7 +255,7 @@
     align-items: center;
     justify-content: space-around;
     margin-top: 10px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .second-section-top {
@@ -265,7 +265,7 @@
     flex-direction: column;
     justify-content: space-evenly;
     text-align: center;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
 }
 
 .second-section-top h1 {
@@ -290,7 +290,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
-    border: 1px solid green;
+    /* border: 1px solid green; */
 }
 .second-section-bottom-left h1{
     font-size: 40px;
@@ -303,7 +303,7 @@
     /* position: relative; */
     align-items: center;
     justify-content: center;
-    border: 1px solid green;
+    /* border: 1px solid green; */
 }
 .second-section-bottom-right img{
     width: 40vw;
@@ -320,7 +320,7 @@
     align-items: center;
     justify-content: center;
     gap: 2.5%;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 /* THIRD SECTION LEFT SIDE */
@@ -332,7 +332,7 @@
     align-items: end;
     border-radius: 4vw;   
     background-color: rgb(255, 235, 239);                                           
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
 }
 
 /* THIRD SECTION RIGHT */
@@ -344,7 +344,7 @@
     align-items: end;
     border-radius: 4vw;
     background-color: rgb(236, 249, 255);
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
 }
 
 /* THIRD SECTION INNERBOX */
@@ -352,7 +352,7 @@
     width: 85%;
     height: 90%;
     position: relative;
-    border: 1px solid green;
+    /* border: 1px solid green; */
 }
 .third-section-innnerbox h1{
     font-size: 45px;
@@ -409,7 +409,7 @@
     justify-content: space-evenly;
     border-radius: 30px;
     background-color: rgb(255, 235, 239);
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 /* FOURTH SECTION INNERBOX */
@@ -417,13 +417,13 @@
     width: 90%;
     height: 30vw;
     display: flex;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
 }
 /* FOURTH SECTION INNERBOX TEXTBOX */
 .fourth-section-innerbox-txtbox {
     width: 50%;
     height: 100%;
-    border: 1px solid green;
+    /* border: 1px solid green; */
 }
 .fourth-section-innerbox-txtbox h1{
     font-size: 50px;
@@ -453,7 +453,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid green;
+    /* border: 1px solid green; */
 }
 .fourth-section-innerbox-imgbox img{
     width: 35vw;
@@ -469,7 +469,7 @@
     justify-content: space-evenly;
     border-radius: 30px;
     background-color: rgb(34, 34, 34);
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 /* FIFTH SECTION TOP */
@@ -481,7 +481,7 @@
     align-items: center;
     justify-content: space-evenly;
     text-align: center;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
 }
 .fifth-section-top h1{
     color: white;
@@ -500,14 +500,14 @@
     display: flex;
     align-items: end;
     justify-content: space-evenly;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
 }
 .fifth-section-card{
     width: 30%;
     height: 90%;
     border-radius: 2.5vw;
     background-color: white;
-    border: 1px solid green;
+    /* border: 1px solid green; */
 }
 .fifth-section-card:nth-child(2){
     height: 100%;
@@ -520,7 +520,7 @@
     align-items: center;
     justify-content: center;
     background-color: var(--purple);
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 .fifth-section-card-innerchild h2{
     color: white;
@@ -538,7 +538,7 @@
     align-items: start;
     padding-top: 2vw;
     padding-left: 2vw;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 .fifth-section-card-plan h3{
     font-size: 1.5vw;
@@ -580,7 +580,7 @@
     align-items: start;
     padding-top: 2vw;
     padding-left: 2vw;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 .fifth-section-card-features h3{
     font-size: 1.9vw;
@@ -608,7 +608,7 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .sixth-section-imgbox{
@@ -617,7 +617,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
 }
 .sixth-section-imgbox img{
     width: 34vw;
@@ -627,7 +627,7 @@
 .sixth-section-textbox{
     width: 50%;
     height: 80%;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
 }
 .sixth-section-textbox h1{
     font-size: 5.6vw;
@@ -678,7 +678,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border: 1px solid  blue;
+    /* border: 1px solid  blue; */
 }
 
 .footer-icons{
@@ -687,7 +687,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    border: 1px solid green;
+    /* border: 1px solid green; */
 }
 
 .footer-logo {
@@ -696,7 +696,7 @@
     margin-top: 2.3vw;
     display: flex;
     align-items: center;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .footer-logo-img{
@@ -707,7 +707,7 @@
     justify-content: center;
     background-color: var(--purple);
     border-radius: 1vw;
-    border: 1px  solid blue;
+    /* border: 1px  solid blue; */
 }
 .footer-logo-img img{
     width: 70%;
@@ -725,7 +725,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
 }
 .footer-social-icon{
     width: 3vw;
@@ -735,7 +735,7 @@
     justify-content: center;
     border-radius: 50%;
     background-color: var(--purple);
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 .footer-social-icon i{
     font-size: 1.5vw;
